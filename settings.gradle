@@ -1,0 +1,2 @@
+include ':app', ':mvisupport', ':mvisupport-generator'
+rootProject.name='DaggerMviGeneratorLab'
